@@ -1,6 +1,9 @@
 # CricView
 Team Members
 Jaspreet Singh
-Piyush Gupta 
+
+Piyush Gupta
+
 Taniya Gupta
+
 komal Bagai
