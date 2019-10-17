@@ -6,6 +6,6 @@ Jaspreet Singh
 
 Piyush Gupta
 
-Taniya Gupta
+Tanmay Baweja
 
 komal Bagai
